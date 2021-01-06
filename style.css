@@ -1,0 +1,33 @@
+body{
+    margin-right: 5%;
+}
+section{
+    height: 700px;
+    padding-bottom: 150px;
+}
+
+.half{
+    width: 40%;
+    float:right;
+    align-content: center;
+    
+}
+.half img{
+    width: 100%;
+}
+.orange-marker{
+    color: #FF8367;
+}
+.dark-marker{
+    color: #363958;
+}
+h1{
+    font-size: 40px;
+    color: #363958;
+}
+p{
+    font-size: 20px;
+}
+.three{
+    text-align: center;
+}
