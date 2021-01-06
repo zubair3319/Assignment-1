@@ -1,33 +1,84 @@
 body{
     margin-right: 5%;
+    margin-left: 5%;
+    font-family: 'Roboto', sans-serif;
 }
 section{
-    height: 700px;
-    padding-bottom: 150px;
+    height: 500px;
+    padding-bottom: 50px;
 }
 
-.half{
-    width: 40%;
-    float:right;
-    align-content: center;
-    
+h1{
+    font-size: 60px;
+    color: #363958;
 }
-.half img{
-    width: 100%;
+h2{
+    font-weight: 50px;
 }
+p{
+    font-size: 20px;
+}
+
 .orange-marker{
     color: #FF8367;
 }
 .dark-marker{
     color: #363958;
 }
-h1{
-    font-size: 40px;
-    color: #363958;
+.white-marker{
+    color: white;
 }
-p{
-    font-size: 20px;
-}
+
+.hyper-link{
+    font-weight: bolder;
+    color: #f306cc;
+    text-decoration: none;
+    padding: 10px 15px;
+    background-color: rgb(229, 253, 14);
+    border-radius: 10px
+}    
+
+
+
 .three{
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    
+}
+
+
+.four{
+    
+    text-align: center;
+    background-image: url(shapes/Group_33094_1.png);
+    background-size: 60% 30%;
+    background-repeat: no-repeat;
+    background-position: 50% 0% ;
+}
+
+.half{
+    width: 40%;
+    margin-left: 10%;
+    float:left;
+}
+
+.inquiry{
+    width: 50%;
+    float: left;
+    margin-top: 15px;
+}
+
+.half img{
+    float: left;
+    width: 50%;
+}
+.three img{
+    padding-right: 30px;
+    width: 30%;
+    float:left;
+}
+
+footer{
     text-align: center;
 }
