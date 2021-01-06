@@ -5,7 +5,7 @@ body{
 }
 section{
     height: 500px;
-    padding-bottom: 50px;
+    padding-bottom: 50px;    
 }
 
 h1{
@@ -43,18 +43,19 @@ p{
 .three{
     margin: auto;
     width: 100%;
-    text-align: center;
+    text-align: center;    
+    background-color: #F8F9FC;
     
 }
 
 
 .four{
-    
     text-align: center;
     background-image: url(shapes/Group_33094_1.png);
-    background-size: 60% 30%;
+    background-size: 800px 150px;
     background-repeat: no-repeat;
     background-position: 50% 0% ;
+    padding-top: 10px;
 }
 
 .half{
@@ -62,19 +63,12 @@ p{
     margin-left: 10%;
     float:left;
 }
-
-.inquiry{
-    width: 50%;
-    float: left;
-    margin-top: 15px;
-}
-
 .half img{
     float: left;
     width: 50%;
 }
 .three img{
-    padding-right: 30px;
+    padding-right: 35px;
     width: 30%;
     float:left;
 }
